@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ping re.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Elzubair\source\repos\ping re\ping re\Source.cpp(174,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ping re.vcxproj -> C:\Users\Elzubair\source\repos\ping re\Debug\ping pong.exe
