@@ -1,5 +1,5 @@
 # Ping-Pong-CPP
-Ping Pong game using object oriented programming paradigm with C++
+Ping Pong game using procedural paradigm with C++
 
 ## Note:
 1st player's buttons a, d and s  
